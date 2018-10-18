@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/info_tips_logo.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-hdpi-v4/info_tips_logo.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/left_btn.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-hdpi-v4/left_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/icon_shibai.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_shibai.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/icon_chenggong.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_chenggong.png"
+    }
+]

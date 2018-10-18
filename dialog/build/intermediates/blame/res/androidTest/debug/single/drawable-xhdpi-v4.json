@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_shibai.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_shibai.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/checkbox_report_on.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/checkbox_report_on.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bg_new_version.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bg_new_version.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/checkbox_report.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/checkbox_report.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/info_tips_logo.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/info_tips_logo.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_chenggong.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_chenggong.png"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_close_pop_up_windows.png",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_close_pop_up_windows.png"
+    }
+]

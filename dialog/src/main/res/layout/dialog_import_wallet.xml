@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:minWidth="350dp"
+        android:orientation="vertical"
+        android:scrollbars="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:background="@drawable/import_bg">
+
+            <Button
+                android:id="@+id/dialog_import_wallet"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="34dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/shape_import_wallet"
+                android:text="导入钱包"
+                android:textColor="#fdf8ee"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/dialog_create_wallet"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_above="@+id/dialog_import_wallet"
+                android:layout_alignLeft="@+id/dialog_import_wallet"
+                android:layout_alignStart="@+id/dialog_import_wallet"
+                android:layout_marginBottom="20dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/shape_import_create"
+                android:text="创建钱包"
+                android:textColor="#2494fb"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/dialog_close"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/import_close" />
+
+    </LinearLayout>
+
+</ScrollView>

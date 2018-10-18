@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/release/layout/dialog_include_inputtext.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/layout/dialog_include_inputtext.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/release/layout/dialog_report_error.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/layout/dialog_report_error.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/release/layout/dialog_orginal_2.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/layout/dialog_orginal_2.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/release/layout/dialog_apply_create_company_comfirm_orginal_2.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/layout/dialog_apply_create_company_comfirm_orginal_2.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/release/layout/dialog_add_recommend_tag.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/layout/dialog_add_recommend_tag.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/shape_recommend_submit_btn.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/shape_recommend_submit_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/bg_ed2c26_cursor.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/bg_ed2c26_cursor.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/shape_loading_dialog.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/shape_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/shape_light_gray.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/shape_light_gray.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/shape_recommend_submit_sel_btn.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/shape_recommend_submit_sel_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/checkbox_report_bg.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/checkbox_report_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/androidTest/debug/drawable/shape_dlg_bg.xml",
+        "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/bundles/debug/res/drawable/shape_dlg_bg.xml"
+    }
+]

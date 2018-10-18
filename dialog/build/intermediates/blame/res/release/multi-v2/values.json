@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "559"
+                    }
+                },
+                {
+                    "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "53",
+                        "endOffsets": "65"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/build/intermediates/res/merged/release/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "559"
+                    }
+                },
+                {
+                    "source": "/Users/pro/develop/AiMeiProject/android-app/FDHSocialGeneralDialog/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "53",
+                        "endOffsets": "65"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        }
+    ]
+}
